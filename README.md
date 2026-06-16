@@ -2,7 +2,7 @@
 
 Senior / Principal Full-Stack Engineer with 25 years of experience, building **AI-powered products** on Next.js, React, Node.js and TypeScript — from 0→1 MVPs to enterprise platforms.
 
-⚡ I make products fast: re-architected a data pipeline from **100K rows / 5 min → 1M rows / 0.7 sec**
+⚡ I make products fast: re-architected a data pipeline from
 🤖 Focus: LLM orchestration, AI agents, RAG, high-performance systems, multi-tenant SaaS
 🌐 Portfolio: [slava.bevza.pro](https://slava.bevza.pro) · 📫 slava@bevza.pro
 
