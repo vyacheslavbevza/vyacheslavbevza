@@ -1,16 +1,16 @@
-## Hi there 👋
+# Hi, I'm Slava 👋
 
-<!--
-**vyacheslavbevza/vyacheslavbevza** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Senior / Principal Full-Stack Engineer with 25 years of experience, building **AI-powered products** on Next.js, React, Node.js and TypeScript — from 0→1 MVPs to enterprise platforms.
 
-Here are some ideas to get you started:
+⚡ I make products fast: re-architected a data pipeline from **100K rows / 5 min → 1M rows / 0.7 sec**
+🤖 Focus: LLM orchestration, AI agents, RAG, high-performance systems, multi-tenant SaaS
+🌐 Portfolio: [slava.bevza.pro](https://slava.bevza.pro) · 📫 slava@bevza.pro
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Tech
+`TypeScript` `JavaScript` `Python` · `React` `Next.js` `Node.js` `Fastify` `tRPC` `GraphQL`
+`PostgreSQL` `Redis` · `AI/LLM` `RAG` `Vector DBs` `Vercel AI SDK` · `AWS` `Docker` `Kubernetes`
+
+### What I do
+- 🧠 Built and scaled an all-in-one **AI tool to 50,000+ users**
+- ⚡ Engineered an **enterprise data engine** — 1M rows in 0.7s
+- 📈 Shipped an **AI sales-scoring system** that lifted sales by 30%
