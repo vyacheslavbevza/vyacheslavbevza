@@ -9,8 +9,3 @@ Senior / Principal Full-Stack Engineer with 25 years of experience, building **A
 ### Tech
 `TypeScript` `JavaScript` `Python` · `React` `Next.js` `Node.js` `Fastify` `tRPC` `GraphQL`
 `PostgreSQL` `Redis` · `AI/LLM` `RAG` `Vector DBs` `Vercel AI SDK` · `AWS` `Docker` `Kubernetes`
-
-### What I do
-- 🧠 Built and scaled an all-in-one **AI tool to 50,000+ users**
-- ⚡ Engineered an **enterprise data engine** — 1M rows in 0.7s
-- 📈 Shipped an **AI sales-scoring system** that lifted sales by 30%
