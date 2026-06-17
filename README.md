@@ -1,11 +1,11 @@
 # Hi, I'm Slava 👋
 
-Senior / Principal Full-Stack Engineer with 25 years of experience, building **AI-powered products** on Next.js, React, Node.js and TypeScript — from 0→1 MVPs to enterprise platforms.
+Senior / Principal engineer and architect specializing in **React, Next.js, Node.js, and AI**.
 
-⚡ I make products fast: re-architected a data pipeline from
-🤖 Focus: LLM orchestration, AI agents, RAG, high-performance systems, multi-tenant SaaS
-🌐 Portfolio: [slava.bevza.pro](https://slava.bevza.pro) · 📫 slava@bevza.pro
+I work across three layers:
 
-### Tech
-`TypeScript` `JavaScript` `Python` · `React` `Next.js` `Node.js` `Fastify` `tRPC` `GraphQL`
-`PostgreSQL` `Redis` · `AI/LLM` `RAG` `Vector DBs` `Vercel AI SDK` · `AWS` `Docker`
+- **Product engineering** — performant, user-facing apps in React, Next.js and TypeScript, from prototype to production.
+- **System architecture** — APIs, data models and distributed systems that scale without friction.
+- **AI integration** — LLM orchestration, RAG pipelines and AI-native features that create real value.
+
+🌐 [slava.bevza.pro](https://slava.bevza.pro) · 💼 [LinkedIn](https://www.linkedin.com/in/vyacheslavbevza) · 📫 slava@bevza.pro
